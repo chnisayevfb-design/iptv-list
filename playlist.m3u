@@ -87,7 +87,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 group-title="Türkiyə;Xəbər", Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 group-title="Türkiyə4;Xəbər", Tele 1
+#EXTINF:-1 group-title="Türkiyə;Xəbər", Tele 1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="Türkiyə;Xəbər", TV 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
