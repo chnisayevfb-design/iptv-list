@@ -2,7 +2,7 @@
 
 # === AZƏRBAYCAN KANALLARI ===
 
-#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azərbaycan"; group-title="Xəbər",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azərbaycan";"Xəbər",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Musiqi",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
