@@ -2,11 +2,11 @@
 
 # === AZƏRBAYCAN KANALLARI ===
 
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azərbaycan",group-title="Xəbər",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca@SD",Azstar TV HD (1080p)
+#EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Musiqi",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az@SD",Baku.TV
+#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Xəbər",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Idman",CBC Sport HD 
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
