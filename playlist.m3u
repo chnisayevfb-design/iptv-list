@@ -24,8 +24,6 @@ http://85.132.78.122:8050/hls/stream/index.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az@SD", group-title"Azərbaycan",Medeniyyet TV (1080p)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-id="NaxcivanTV.az@SD",group-title"Azərbaycan",Naxcivan TV (720p)
-https://str2.yodacdn.net/ntv/video.m3u8
 #EXTINF:-1 tvg-id="VilayetTV.az@SD",group-title"Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
 #EXTINF:-1 tvg-id="XezerTV.az@SD",group-title"Azərbaycan",Xezer TV (720p)
