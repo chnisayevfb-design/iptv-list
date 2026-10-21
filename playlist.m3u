@@ -2,39 +2,35 @@
 
 # === AZƏRBAYCAN KANALLARI ===
 
-#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azərbaycan;Xəbər",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azərbaycan",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Musiqi",Azstar TV HD (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Xəbər",Baku.TV
+#EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Azərbaycan",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Idman",CBC Sport HD 
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 tvg-id="Idman tv" group-title="Idman",Idman tv
 https://str.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiaWRtYW5wb3AiLCJpcCI6IjM3LjYxLjEyMS4xMzciLCJ1YWgiOiJhNjU0MDFjZTEwMTQ0ZmEwIiwiaWF0IjoxNzkyNjE5NzY2LCJleHAiOjE3OTI3MDYxNjYsImp0aSI6IjExNjA5NzAwMjIwMTI5NGMifQ.lUFfpBjjsIERVoxmypSuEudE6YwzHnRvKiiX1eKXaZo
-#EXTINF:-1 tvg-id="ELTV.az@SD",EL TV (260p) [Not 24/7]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ELTV.az@SD",EL TV
+#EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
+#EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title"Azərbaycan",Ictimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:-1 tvg-id="Kanal35.az@SD",Kanal 35 (720p)
-https://str2.yodacdn.net/kanal35/index.m3u8
-#EXTINF:-1 tvg-id="KanalS.az@SD",Kanal S
+#EXTINF:-1 tvg-id="KanalS.az@SD" group-title"Azərbaycan",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
+#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title"Azərbaycan",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="KNMusicTV.az@SD",KN Music TV
+#EXTINF:-1 tvg-id="KNMusicTV.az@SD",group-title"Musiqi",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD",Medeniyyet TV (1080p)
+#EXTINF:-1 tvg-id="MedeniyyetTV.az@SD", group-title"Azərbaycan",Medeniyyet TV (1080p)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-id="NaxcivanTV.az@SD",Naxcivan TV (720p)
+#EXTINF:-1 tvg-id="NaxcivanTV.az@SD",group-title"Azərbaycan",Naxcivan TV (720p)
 https://str2.yodacdn.net/ntv/video.m3u8
-#EXTINF:-1 tvg-id="VilayetTV.az@SD",Vilayet TV
+#EXTINF:-1 tvg-id="VilayetTV.az@SD",group-title"Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV (720p)
+#EXTINF:-1 tvg-id="XezerTV.az@SD",group-title"Azərbaycan",Xezer TV (720p)
 https://www.xezerxeber.az/stream/index.m3u8
-#EXTINF:-1 tvg-id="AzadTV.az@SD",Azad TV (1080p)
+#EXTINF:-1 tvg-id="AzadTV.az@SD",group-title"Azərbaycan",Azad TV (1080p)
 #EXTVLCOPT:http-referrer=No response
 #EXTVLCOPT:http-user-agent=No response
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
