@@ -11,7 +11,8 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Idman",CBC Sport HD 
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 tvg-id="Idman tv" group-title="Idman",Idman tv
-https://str.yodacdn.net/idmantele/index.m3u8?token=eyJ2IjoyLCJzaXRlIjoiaWRtYW5wb3AiLCJpcCI6IjM3LjYxLjExMy45IiwidWFoIjoiYTY1NDAxY2UxMDE0NGZhMCIsImlhdCI6MTc5MjYyNTc5OCwiZXhwIjoxNzkyNzEyMTk4LCJqdGkiOiIwODFmY2M5ZWVjMDZjNmEwIn0.wcje1DI6d836pX3j5SfWLv2sP2RlTJJBe2qboRKwxGc#EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
+https://idmantv.az/az.m3u8
+#EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Azərbaycan",Ictimai TV
 https://live.itv.az/itv.m3u8
