@@ -153,6 +153,8 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="Türkiyə", Dream Türk
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 group-title="Əlavə", TRT 1
+https://api5.citynettv.az:11610/auth-streaming/4,dfc90fb5e6ce59cceac5d34c4a5f22fc5b5bbe58,1792693731,45200200052004,3-trt1hd,8,1,1,1,5,2,2,5,DESKTOP,298419,all,none,citynet,37.61.121.137,NONE,true,3/hls/recording/3-trt1hd/3-trt1hdtrt-1-12391545554223517926011001792608900/2391/index.m3u8
 
 # --- RUS KANALLARI ---
 #EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576i)
