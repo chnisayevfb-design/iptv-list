@@ -1,19 +1,7 @@
 #EXTM3U
 
 # === AZƏRBAYCAN KANALLARI ===
-#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="AnewZTV.az@SD",AnewZ
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="APATv.az@SD",APA Tv (1080p)
-http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 tvg-id="AyazTV.az@SD",Ayaz TV (720p)
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV (1080p)
-https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+
 #EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD",Azstar TV HD (1080p)
