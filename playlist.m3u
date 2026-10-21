@@ -8,9 +8,9 @@ https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az@SD",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Azərbaycan""Idman",CBC Sport HD 
+#EXTINF:-1 tvg-id="CBCSport.az@HD" group-title="Azərbaycan" "Idman",CBC Sport HD 
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 tvg-id="Idman tv" group-title="Azərbaycan""Idman",Idman tv
+#EXTINF:-1 tvg-id="Idman tv" group-title="Azərbaycan" "Idman",Idman tv
 https://str.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiaWRtYW5wb3AiLCJpcCI6IjM3LjYxLjEyMS4xMzciLCJ1YWgiOiJhNjU0MDFjZTEwMTQ0ZmEwIiwiaWF0IjoxNzkyNjE5NzY2LCJleHAiOjE3OTI3MDYxNjYsImp0aSI6IjExNjA5NzAwMjIwMTI5NGMifQ.lUFfpBjjsIERVoxmypSuEudE6YwzHnRvKiiX1eKXaZo
 #EXTINF:-1 tvg-id="ELTV.az@SD",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
