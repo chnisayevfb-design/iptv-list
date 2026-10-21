@@ -1,13 +1,10 @@
 #EXTM3U
 
-# === AZƏRBAYCAN VƏ TÜRKİYƏ (Avto-Yenilənən) ===
-https://qazim.github.io/IPTV/all_channels.m3u
+# === AZƏRBAYCAN KANALLARI ===
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/az.m3u
 
-# === TÜRKİYƏ KANALLARI (Rəsmi iptv-org) ===
-https://iptv-org.github.io/iptv/countries/tr.m3u
+# === TÜRKİYE KANALLARI (Resmi) ===
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tr.m3u
 
-# === RUSİYA KANALLARI (Rəsmi iptv-org) ===
-https://iptv-org.github.io/iptv/countries/ru.m3u
-
-# === DÜNYA İDMAN KANALLARI ===
-https://iptv-org.github.io/iptv/categories/sports.m3u
+# === RUSYA KANALLARI (Resmi) ===
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u
