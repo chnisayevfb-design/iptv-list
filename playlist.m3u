@@ -1,10 +1,5 @@
 #EXTM3U
 
 
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
-
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_15plusmg.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_bonustv.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_catcast.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ru_ntv.m3u
+https://raw.githubusercontent.com/tsparkman/iptv/main/tr.m3u
+https://raw.githubusercontent.com/tsparkman/iptv/main/sports.m3u
