@@ -12,6 +12,8 @@ https://rtmp.baku.tv/hls/bakutv.m3u8
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 tvg-id="Idman tv" group-title="Idman",Idman tv
 https://idmantv.az/az.m3u8
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-logo="https://idmantv.az" group-title="Sports", Idman TV
+https://mncdn.com/idmantv.az/az.m3u8
 #EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD" group-title="Azərbaycan",Ictimai TV
