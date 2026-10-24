@@ -493,9 +493,11 @@ https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
 http://stream.mcquack.net/187/index.m3u8
 #EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="Rus",НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 tvg-id="Balabol.ru@SD" group-title="Rus",НТВ Balabol
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" group-title="Rus",360° 
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Xəbər",360° Новости
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Rus",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" group-title="Rus",365 days TV
 http://stream.mcquack.net/70/index.m3u8
@@ -507,35 +509,29 @@ http://5.188.159.128:8070/RED/index.m3u8
 http://stream.mcquack.net/69/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru@SD" group-title="Kino",Sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Kino",Amedia Hit (1080p)
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Kino",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 tvg-id="Ani.ru@SD",Ani (576p)
-http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 tvg-id="Ani.ru@SD",Ani (576p)
+#EXTINF:-1 tvg-id="Ani.ru@SD" group-title="Uşaq",Ani
 http://stream.mcquack.net/306/index.m3u8
-#EXTINF:-1 tvg-id="ART.ru@SD",ART (576p)
+#EXTINF:-1 tvg-id="ART.ru@SD" group-title="Rus",ART
 http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Auto Plus
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD" group-title="Rus",Auto Plus
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Avto24.ru@SD",Avto24 (576p)
+#EXTINF:-1 tvg-id="Avto24.ru@SD" group-title="Rus",Avto24
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 tvg-id="Balabol.ru@SD",Balabol (1080p)
-https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="Soyuzny.ru@SD",Soyuzny (576p)
+#EXTINF:-1 tvg-id="Soyuzny.ru@SD" group-title="Rus",Союзный
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
-#EXTINF:-1 tvg-id="Blokbaster.ru@HD",Blokbaster HD (1080p)
+#EXTINF:-1 tvg-id="Blokbaster.ru@HD" group-title="Kino",Blokbaster HD
 http://stream.mcquack.net/364/index.m3u8
-#EXTINF:-1 tvg-id="BoksTV.ru@SD",Boks TV (576p)
+#EXTINF:-1 tvg-id="BoksTV.ru@SD" group-title="Idman",Boks TV
 http://stream.mcquack.net/154/index.m3u8
-#EXTINF:-1 tvg-id="Bolt.ru@SD",Bolt (576p)
-http://hls127.freeott.top:8080/Bolt/video.m3u8
-#EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE (576p)
+#EXTINF:-1 tvg-id="BRIDGE.ru@SD" group-title="Musiqi",BRIDGE
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",BRIDGE Classic (576p)
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" group-title="Musiqi",BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD",BRIDGE Deluxe HD (576p)
+#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD" group-title="Musiqi",BRIDGE Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD",BRIDGE Hits (576p)
+#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" group-title="Musiqi",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@Plus4",Carousel (720p)
 http://185.37.150.46/Karusel/index.m3u8
