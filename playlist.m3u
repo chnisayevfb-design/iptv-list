@@ -42,7 +42,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr@SD",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr@SD",A Spor (1080p)
+#EXTINF:-1 tvg-id="ASpor.tr@SD" group-title="Idman",A Spor (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="AfroturkTV.tr@SD",Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
@@ -124,7 +124,7 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr@SD",FB TV
+#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Idman",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
@@ -148,7 +148,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr@SD",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-id="HTSporTV.tr@SD",HTSpor TV (1080p)
+#EXTINF:-1 tvg-id="HTSporTV.tr@SD" group-title="Idman",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HunatTV.tr@SD",Hunat TV (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
@@ -305,11 +305,11 @@ https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="QafTV.tr@SD",Qaf TV (1080p)
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
-#EXTINF:-1 tvg-id="SSport.tr@SD",S Sport (720p)
+#EXTINF:-1 tvg-id="SSport.tr@SD" group-title="Idman",S Sport (720p)
 https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD",S Sport 2 (720p)
+#EXTINF:-1 tvg-id="SSport2.tr@SD" group-title="Idman",S Sport 2 (720p)
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD",S Sport 2
+#EXTINF:-1 tvg-id="SSport2.tr@SD" group-title="Idman",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD",Sat7 Türk (1080p)
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
@@ -355,7 +355,7 @@ https://tv.ensonhaber.com/tv24/tv24.m3u8
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD",TRT 2 (1440p) [Geo-blocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT3.tr@SD",TRT 3 (720p)
+#EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Idman",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -381,7 +381,7 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr@SD",TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD",TRT Spor Yildiz (1440p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="Idman",TRT Spor Yildiz (1440p) [Geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -425,7 +425,7 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr@SD",TRT Spor (720p)
+#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Idman",TRT Spor (720p)
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.tr@SD",Viasat History (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -488,31 +488,26 @@ https://andro.mangeinde4.lat/checklist/androstreamlivebs5.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivebsh.m3u8
 
 # === RUS KANALLARI ===
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 (576i)
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
-#EXTINF:-1 tvg-id="2x2.ru@SD",2x2 SD (576p)
+
+#EXTINF:-1 tvg-id="2x2.ru@SD" group-title="Uşaq",2x2 
 http://stream.mcquack.net/187/index.m3u8
-#EXTINF:-1 tvg-id="5minuttishiny.ru@SD",5 minut tishiny (1080p)
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" group-title="Rus",НТВ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
-#EXTINF:-1 tvg-id="360.ru@SD",360° (1080p)
+#EXTINF:-1 tvg-id="360.ru@SD" group-title="Rus",360° 
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 tvg-id="360.ru@SD",360° (576p) [Geo-blocked]
-https://streaming.thestream.cyou/live/7000.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD",360° Новости
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Xəbər",360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
-#EXTINF:-1 tvg-id="365daysTV.ru@SD",365 days TV (576p)
+#EXTINF:-1 tvg-id="365daysTV.ru@SD" group-title="Rus",365 days TV
 http://stream.mcquack.net/70/index.m3u8
-#EXTINF:-1 tvg-id="black.ru@SD",.black (576p)
+#EXTINF:-1 tvg-id="black.ru@SD" group-title="Kino",Black
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-id="red.ru@SD",.red (576p)
+#EXTINF:-1 tvg-id="red.ru@SD" group-title="Rus",Red
 http://5.188.159.128:8070/RED/index.m3u8
-#EXTINF:-1 tvg-id="red.ru@SD",.red (576p)
+#EXTINF:-1 tvg-id="red.ru@SD" group-title="Rus",Red
 http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1 tvg-id="scifi.ru@SD",.sci-fi (576p)
+#EXTINF:-1 tvg-id="scifi.ru@SD" group-title="Kino",Sci-fi
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 tvg-id="Afontovo.ru@SD",Afontovo
-https://stream.afontovo.ru/hd.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru@SD",Amedia Hit (1080p)
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" group-title="Kino",Amedia Hit (1080p)
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD",Ani (576p)
 http://46.32.176.50/anitv/index.m3u8
