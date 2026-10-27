@@ -10,7 +10,7 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az" tvg-country="AZ" group-title="İdman",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 tvg-name="İdman TV" tvg-logo="https://pbs.twimg.com/profile_images/1769113422/1.logo_400x400.jpg" tvg-id="idmantv.az" tvg-country="AZ" group-title="İdman",İdman TV
+#EXTINF:-1 tvg-name="İdman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%B0dman_TV_%282019%29.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="idmantv.az" tvg-country="AZ" group-title="İdman",İdman TV
 https://str.yodacdn.net/idmantele/tracks-v2a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoiaWRtYW5wb3AiLCJpcCI6IjM3LjYxLjEyMC4xMTAiLCJ1YWgiOiI0MDllODgwY2ZjMTA1NjAzIiwiaWF0IjoxNzkzMTE4ODcwLCJleHAiOjE3OTMyMDUyNzAsImp0aSI6ImUxMDdhZWZkMzgxMzMyMmUifQ.jh4nvk6isIjajH22ZTCewFiqoItGDhxsthfhiu7zOSg
 #EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
