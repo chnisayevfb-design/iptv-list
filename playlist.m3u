@@ -4,39 +4,39 @@
 
 #EXTINF:-1 tvg-name="AZTV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azərbaycan",AZTV
 https://hatun.canlitv.me/aztv.m3u8?tkn=0Z97Co20fxi2U2UY4U-vRg&tms=1793137491&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=az-tv-canli-hd
+#EXTINF:-1 tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%C4%B0ctimai_TV_%282021%29.png/120px-%C4%B0ctimai_TV_%282021%29.png" tvg-id="IctimaiTV.az" tvg-country="AZ" group-title="Azərbaycan",İctimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-name="İdman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%B0dman_TV_%282019%29.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="idmantv.az" tvg-country="AZ" group-title="İdman",İdman TV
+https://tuzcu.canlitv.me/idmantv.m3u8?tkn=y4_H8TRot7uJfODG5dEY7Q&tms=1793136967&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=idmantv-canli-hd
+#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" tvg-id="MedeniyyetTV.az" tvg-country="AZ" group-title="Azərbaycan",Mədəniyyət TV Ⓢ
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/X%C9%99z%C9%99r_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282023-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20230103143631&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Xəzər TV
+https://hatun.canlitv.me/xezertv.m3u8?tkn=7CPJaN0PlBdNhy8He02v7Q&tms=1793136565&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=xezertv
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/ATV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282011-2015%29.png/revision/latest/scale-to-width-down/250?cb=20171016171342&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Azad TV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-name="Space" tvg-logo="https://teleradio.az/wp-content/uploads/2021/01/logo.png" tvg-country="AZ" group-title="Azərbaycan",Space
+https://hatun.canlitv.me/spacetv.m3u8?tkn=cQW4W-li2NqTW4zM382gxw&tms=1793140833&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=spacetv
+#EXTINF:-1 tvg-name="ARB" tvg-logo="https://upload.wikimedia.org/wikipedia/az/8/86/ARB.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=original" tvg-country"AZ" group-title="Azərbaycan",ARB
+https://cdn509.canlitv.me/arbtv.m3u8?tkn=xykFLUc4Ou1TqJ4wkfjvIw&tms=1793142811&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=arbtv-canli-hd
 #EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" tvg-country="AZ" group-title="Musiqi",AzStarTV 
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azərbaycan",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az" tvg-country="AZ" group-title="İdman",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 tvg-name="İdman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%B0dman_TV_%282019%29.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="idmantv.az" tvg-country="AZ" group-title="İdman",İdman TV
-https://tuzcu.canlitv.me/idmantv.m3u8?tkn=y4_H8TRot7uJfODG5dEY7Q&tms=1793136967&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=idmantv-canli-hd
-#EXTINF:-1 tvg-id="ELTV.az@SD" group-title="Azərbaycan",EL TV
+
+#EXTINF:-1 tvg-id="ELTV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/51/ELTV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282020-%D0%BD.%D0%B2.%29.png/revision/latest/scale-to-width-down/1200?cb=20210313201636&path-prefix=ru" tvg-country"AZ" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-name="İctimai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%C4%B0ctimai_TV_%282021%29.png/120px-%C4%B0ctimai_TV_%282021%29.png" tvg-id="IctimaiTV.az" tvg-country="AZ" group-title="Azərbaycan",İctimai TV
-https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="Kanal S" tvg-logo="https://i.imgur.com/W0JBoSQ.png" tvg-id="KanalS.az" tvg-country="AZ" group-title="Azərbaycan",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az@SD" group-title="Azərbaycan",Kapaz TV
-http://85.132.78.122:8050/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV" tvg-logo="https://www.knmusictv.com/en/wp-content/themes/knrevize/assets/images/logo.png" tvg-country="AZ" group-title="Musiqi",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" tvg-id="MedeniyyetTV.az" tvg-country="AZ" group-title="Azərbaycan",Mədəniyyət TV Ⓢ
-https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-id="VilayetTV.az@SD" group-title="Azərbaycan",Vilayet TV
+#EXTINF:-1 tvg-id="VilayetTV" tvg-logo="https://vilayet.tv/wp-content/uploads/2023/03/logo.png" tvg-country="AZ" group-title="Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/X%C9%99z%C9%99r_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282023-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20230103143631&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Xəzər TV
-https://hatun.canlitv.me/xezertv.m3u8?tkn=7CPJaN0PlBdNhy8He02v7Q&tms=1793136565&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=xezertv
-#EXTINF:-1 tvg-name="Xəzər Xəbər" tvg-logo="https://i.imgur.com/AuB8bnq.png" tvg-id="XezerXeber.az" tvg-country="AZ" group-title="Azərbaycan",Xəzər Xəbər
-https://www.xezerxeber.az/stream/index.m3u8
-#EXTINF:-1 tvg-id="ATV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/ATV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282011-2015%29.png/revision/latest/scale-to-width-down/250?cb=20171016171342&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Azad TV
-https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-name="Real TV" tvg-logo="https://i.imgur.com/e2KFL0R.png" tvg-id="RealTV.az" tvg-country="AZ" group-title="Azərbaycan",Real TV
 https://hatun.canlitv.me/realtv.m3u8?tkn=OFCWjuwFWLRPyIHYZ3UZLQ&tms=1793135598&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=real-tv-hd
 #EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Musiqi",MTV Azerbaijan
 https://hatun.canlitv.me/muztv.m3u8?tkn=EEHRCUFVovJs2vvCmU0HAw&tms=1793137216&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=muztv
-
 
 # === TÜRK KANALLARI ===
 #EXTINF:-1 tvg-id="4UTV.tr@SD" group-title="Türkiyə",4U TV
