@@ -3,7 +3,7 @@
 # === AZƏRBAYCAN KANALLARI ===
 
 #EXTINF:-1 tvg-name="AZTV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azərbaycan",AZTV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
+https://hatun.canlitv.me/aztv.m3u8?tkn=0Z97Co20fxi2U2UY4U-vRg&tms=1793137491&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=az-tv-canli-hd
 #EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" tvg-country="AZ" group-title="Musiqi",AzStarTV 
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azərbaycan",Baku TV
