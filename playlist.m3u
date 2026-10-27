@@ -26,8 +26,8 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="VilayetTV.az@SD" group-title="Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD" group-title="Azərbaycan",Xezer TV 
-https://www.xezerxeber.az/stream/index.m3u8
+#EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/X%C9%99z%C9%99r_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282023-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20230103143631&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Xəzər TV
+https://hatun.canlitv.me/xezertv.m3u8?tkn=7CPJaN0PlBdNhy8He02v7Q&tms=1793136565&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=xezertv
 #EXTINF:-1 tvg-name="Xəzər Xəbər" tvg-logo="https://i.imgur.com/AuB8bnq.png" tvg-id="XezerXeber.az" tvg-country="AZ" group-title="Azərbaycan",Xəzər Xəbər
 https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" group-title="Azərbaycan",Azad TV (1080p)
