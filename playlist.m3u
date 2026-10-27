@@ -26,14 +26,14 @@ https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w555064733.m3u8?hash=8
 https://tuzcu.canlitv.me/realtv.m3u8?tkn=lWEu3pR_O9YhNX5J2yIL2w&tms=1793143742&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=real-tv-hd
 #EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azərbaycan",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azərbaycan",Baku TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-name="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/CBC_Azerbaijan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="CBC" tvg-country="AZ" group-title="Azərbaycan",CBC
 https://hatun.canlitv.me/cbcaztv.m3u8?tkn=1k2IhWZHoK1e-OGzsWl3mQ&tms=1793143976&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=cbc-az-tv-hd-izle
 #EXTINF:-1 tvg-name="CBC Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" tvg-id="CBCSport.az" tvg-country="AZ" group-title="İdman",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azərbaycan",Baku TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Musiqi",MTV Azerbaijan
+https://hatun.canlitv.me/muztv.m3u8?tkn=EEHRCUFVovJs2vvCmU0HAw&tms=1793137216&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=muztv
+#EXTINF:-1 tvg-name="TMB" tvg-logo="https://p7.hiclipart.com/preview/626/374/494/tv-top-television-channel-tmb-tv-turkvision-song-contest-tmb-logo.jpg" tvg-country="AZ" group-title="Musiqi",TMB
+https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiMzcuNjEuMTIwLjExMCIsInVhaCI6IjQwOWU4ODBjZmMxMDU2MDMiLCJpYXQiOjE3OTMxMzExODMsImV4cCI6MTc5MzEzMjk4MywianRpIjoiZGM1YzU5NDUzOTRiNDkxNCJ9.UgjmgT1peWf5NRJMc8dCo-by72bG2akSZNcBGEqEAFI
 #EXTINF:-1 tvg-name="ELTV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/51/ELTV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282020-%D0%BD.%D0%B2.%29.png/revision/latest/scale-to-width-down/1200?cb=20210313201636&path-prefix=ru" tvg-country"AZ" group-title="Azərbaycan",EL TV
 https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Kanal S" tvg-logo="https://i.imgur.com/W0JBoSQ.png" tvg-id="KanalS.az" tvg-country="AZ" group-title="Azərbaycan",Kanal S
@@ -42,10 +42,6 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VilayetTV" tvg-logo="https://vilayet.tv/wp-content/uploads/2023/03/logo.png" tvg-country="AZ" group-title="Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-name="Real TV" tvg-logo="https://i.imgur.com/e2KFL0R.png" tvg-id="RealTV.az" tvg-country="AZ" group-title="Azərbaycan",Real TV
-https://hatun.canlitv.me/realtv.m3u8?tkn=OFCWjuwFWLRPyIHYZ3UZLQ&tms=1793135598&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=real-tv-hd
-#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Musiqi",MTV Azerbaijan
-https://hatun.canlitv.me/muztv.m3u8?tkn=EEHRCUFVovJs2vvCmU0HAw&tms=1793137216&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=muztv
 
 # === TÜRK KANALLARI ===
 #EXTINF:-1 tvg-id="4UTV.tr@SD" group-title="Türkiyə",4U TV
