@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-name="AZTV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azərbaycan",AZTV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AzStarTV.ca@SD" group-title="Musiqi",Azstar TV HD (1080p)
+#EXTINF:-1 tvg-name="AzStarTV" tvg-logo="https://i.imgur.com/di3XX5L.png" tvg-id="AzStarTV.ca" tvg-country="AZ" group-title="Musiqi",AzStarTV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az@SD" group-title="Azərbaycan",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
