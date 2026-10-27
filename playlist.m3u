@@ -8,7 +8,7 @@ https://hatun.canlitv.me/aztv.m3u8?tkn=0Z97Co20fxi2U2UY4U-vRg&tms=1793137491&hst
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-name="İdman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C4%B0dman_TV_%282019%29.png?utm_source=az.wikipedia.org&utm_campaign=index&utm_content=original"  tvg-country="AZ" group-title="İdman",İdman TV
 https://tuzcu.canlitv.me/idmantv.m3u8?tkn=y4_H8TRot7uJfODG5dEY7Q&tms=1793136967&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=idmantv-canli-hd
-#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" tvg-id="MedeniyyetTV.az" tvg-country="AZ" group-title="Azərbaycan",Mədəniyyət TV Ⓢ
+#EXTINF:-1 tvg-name="Mədəniyyət TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png" tvg-id="MedeniyyetTV.az" tvg-country="AZ" group-title="Azərbaycan",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-name="Xəzər TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/X%C9%99z%C9%99r_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282023-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20230103143631&path-prefix=ru" tvg-country="AZ" group-title="Azərbaycan",Xəzər TV
 https://hatun.canlitv.me/xezertv.m3u8?tkn=7CPJaN0PlBdNhy8He02v7Q&tms=1793136565&hst=www.canlitv.me&ip=37.61.120.110&utkn=9aa7ce9441fa13a6d6fdcc10f8996c23&ch=xezertv
@@ -42,6 +42,8 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="VilayetTV" tvg-logo="https://vilayet.tv/wp-content/uploads/2023/03/logo.png" tvg-country="AZ" group-title="Azərbaycan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:-1 tvg-name="Biznes TV" tvg-logo="https://biznestv.az/logo.png" tvg-country="AZ" group-title="Azərbaycan",Biznes TV
+https://str.yodacdn.net/tmbtr/index.m3u8?token=eyJ2IjoyLCJzaXRlIjoieW9kYSIsImlwIjoiMzcuNjEuMTIwLjExMCIsInVhaCI6IjQwOWU4ODBjZmMxMDU2MDMiLCJpYXQiOjE3OTMxMzExODMsImV4cCI6MTc5MzEzMjk4MywianRpIjoiZGM1YzU5NDUzOTRiNDkxNCJ9.UgjmgT1peWf5NRJMc8dCo-by72bG2akSZNcBGEqEAFI
 
 # === TÜRK KANALLARI ===
 #EXTINF:-1 tvg-id="4UTV.tr@SD" group-title="Türkiyə",4U TV
